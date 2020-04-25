@@ -17,5 +17,5 @@ Proponent | Sources | References
 **Capgemini** | Unreleased | Based on eRouška CZ https://github.com/ct-report/CZ
 **Deus** | https://github.com/DEUS-BV | Based on DP^3T https://github.com/ct-report/DP-3T
 **Covid19-Alert** | https://github.com/covid19-alert/ | https://covid19-alert.eu/
-**Digi.me** | https://github.com/digime SDK | http://developers.digi.me/
+**Digi.me** | https://github.com/digime (SDK) | http://developers.digi.me/
 **Accenture** | Unreleased | Based on STOPP CORONA AT https://github.com/ct-report/AT
