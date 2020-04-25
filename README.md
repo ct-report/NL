@@ -3,12 +3,12 @@ Contact Tracing - Netherlands
 
 On April 21 the Dutch Cabinet decided not to designate any of the 7 proposals, which had been selected for the Appathon on April 18/19.
 
-The Cabinet is now evaluating the feasibility of a different solution, that can be made under the direction of the State & that meets all the requirements (EPDB/Privacy & Safety).
+The Cabinet is now evaluating the development of a a new solution, that can fulfill all the requirements (EPDB/Privacy & Safety).
 
-In the week of May 18, the Cabinet will announce if and how an app will be used to support GGD in tracing and traceability.
+In the week of May 18, the Cabinet will announce if and how such an app will be used to support GGD in tracing and traceability.
 
 \
-These are the 7 proposals, that have participated in the National Appathon.
+These are the 7 proposals, that had participated in the National Appathon.
 
 Proponent | Sources | References
 ----------|---------|-----------
