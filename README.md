@@ -7,6 +7,7 @@ The Cabinet is now evaluating the feasibility of a well-functioning solution, th
 
 In the week of May 18, the Cabinet will announce if and how an app will be used to support GGD in tracing and traceability.
 
+
 These are the 7 proposals, that have participated in the National Appathon.
 
 Proponent | Sources | References
