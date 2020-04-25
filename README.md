@@ -1,20 +1,20 @@
 # NL
 Contact Tracing - Netherlands
 
-On April 21 the Dutch Cabinet decided not to designate any of the 7 solutions, which had been selected for the Appathon on April 18/19.
+On April 21 the Dutch Cabinet decided not to designate any of the 7 proposals, which had been selected for the Appathon on April 18/19.
 
 The Cabinet is now evaluating the feasibility of a well-functioning solution, that can be made under the direction of the State & meets all requirements (EPDB/Privacy & Safety).
 
 In the week of May 18, the Cabinet will announce if and how an app will be used to support GGD in tracing and traceability.
 
-These are the 7 proposals, that took part in the Appathon.
+These are the 7 proposals, that have participated in the Appathon.
 
-- **ITO**
-
-Sources | References
---------|-----------
-https://github.com/ito-org | https://www.ito-app.org/
- | https://github.com/ct-report/TCN
-
-
-
+Proponent | Sources | References
+----------|---------|-----------
+**ITO** | https://github.com/ito-org | https://www.ito-app.org/ - Based on TCN https://github.com/ct-report/TCN
+**Sia Partners** | | Based on OpenTrace https://github.com/ct-report/OPENTRACE
+**Capgemini** | | Based on eRouška CZ https://github.com/ct-report/CZ
+**Deus** | https://github.com/DEUS-BV | Based on DP^3T https://github.com/ct-report/DP-3T
+**Covid19-Alert** | https://github.com/covid19-alert/ | https://covid19-alert.eu/
+**Digi.me** | https://github.com/digime (only SDK) | http://developers.digi.me/
+**Accenture** | Unreleased | based on STOPP CORONA AT https://github.com/ct-report/AT
