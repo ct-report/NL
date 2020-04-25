@@ -7,14 +7,14 @@ The Cabinet is now evaluating the feasibility of a well-functioning solution, th
 
 In the week of May 18, the Cabinet will announce if and how an app will be used to support GGD in tracing and traceability.
 
-These are the 7 proposals, that have participated in the Appathon.
+These are the 7 proposals, that have participated in the National Appathon.
 
 Proponent | Sources | References
 ----------|---------|-----------
 **ITO** | https://github.com/ito-org | https://www.ito-app.org/ - Based on TCN https://github.com/ct-report/TCN
-**Sia Partners** | | Based on OpenTrace https://github.com/ct-report/OPENTRACE
-**Capgemini** | | Based on eRouška CZ https://github.com/ct-report/CZ
+**Sia Partners** | Unreleased| Based on OpenTrace https://github.com/ct-report/OPENTRACE
+**Capgemini** | Unreleased | Based on eRouška CZ https://github.com/ct-report/CZ
 **Deus** | https://github.com/DEUS-BV | Based on DP^3T https://github.com/ct-report/DP-3T
 **Covid19-Alert** | https://github.com/covid19-alert/ | https://covid19-alert.eu/
 **Digi.me** | https://github.com/digime (only SDK) | http://developers.digi.me/
-**Accenture** | Unreleased | based on STOPP CORONA AT https://github.com/ct-report/AT
+**Accenture** | Unreleased | Based on STOPP CORONA AT https://github.com/ct-report/AT
