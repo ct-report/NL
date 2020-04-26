@@ -7,7 +7,6 @@ The Cabinet is now evaluating the development of a a new solution, that can fulf
 
 In the week of May 18, the Cabinet will announce if and how such an app will be used to support GGD in tracing and traceability.
 
--------------------|---------------------------------------------------------
 Official App Infos | https://www.rijksoverheid.nl/onderwerpen/coronavirus-app
 -------------------|---------------------------------------------------------
 
