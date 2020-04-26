@@ -1,17 +1,17 @@
 # NL
 Contact Tracing - Netherlands
 
-On April 21 the Dutch Cabinet decided not to designate any of the 7 proposals, which had been selected for the Appathon on April 18/19.
+On April 21 the Dutch Cabinet decided not to designate any of the 7 proposals, which had been selected for the National Appathon on April 18/19.
 
-The Cabinet is now evaluating the development of a a new solution, that can fulfill all the requirements (EPDB/Privacy & Safety).
+The Dutch Cabinet is now evaluating the development of a a new solution, that can fulfill all the requirements (EPDB/Privacy & Safety).
 
-In the week of May 18, the Cabinet will announce if and how such an app will be used to support GGD in tracing and traceability.
+**Around May 18, the Cabinet will announce if and how such an app will be used to support GGD in tracing and traceability.**
 
 Official NL App Information | https://www.rijksoverheid.nl/onderwerpen/coronavirus-app
 -------------------|---------------------------------------------------------
 
 \
-These were the 7 proposals, that had participated in the National Appathon.
+These were the 7 proposals, that had been selected for the National Appathon.
 
 Proponent | Sources | References
 ----------|---------|-----------
