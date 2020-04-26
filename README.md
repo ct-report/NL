@@ -11,7 +11,7 @@ Official NL App Information | https://www.rijksoverheid.nl/onderwerpen/coronavir
 -------------------|---------------------------------------------------------
 
 \
-These are the 7 proposals, that had participated in the National Appathon.
+These were the 7 proposals, that had participated in the National Appathon.
 
 Proponent | Sources | References
 ----------|---------|-----------
