@@ -25,7 +25,7 @@ Proponent | Sources | References
 
 ----------------------------------
 
-_**Notice :** Providing only sample + analysis + screenshots of  COVID19-ALERT app, since the other solutions have already been analyzed in the other sections._
+_**Notice :** Providing only sample + analysis + screenshots of  COVID19-ALERT app by Immotef, since the other proposals have already been analyzed in the other sections._
 
 COVID19-ALERT | Build 0.20 
 --------------|-----------
