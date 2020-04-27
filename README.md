@@ -1,7 +1,7 @@
 # NL
 Contact Tracing - Netherlands
 
-On April 21 the Dutch Cabinet decided not to designate any of the 7 proposals, which had been selected for the National Appathon on April 18/19.
+On April 21 the Dutch Cabinet decided not to designate any of the 7 proposals, which had been selected for the National Appathon on April 18-19.
 
 The Dutch Cabinet is now evaluating the development of a a new solution, that can fulfill all the requirements (EPDB/Privacy & Safety).
 
