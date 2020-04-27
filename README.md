@@ -15,7 +15,7 @@ These were the 7 proposals, that had been selected for the National Appathon.
 
 Proponent | Sources | References
 ----------|---------|-----------
-**ITO** | https://github.com/ito-org | https://www.ito-app.org/ - TCN https://github.com/ct-report/TCN
+**ITO** | https://github.com/ito-org | Based on TCN https://github.com/ct-report/TCN
 **Sia Partners** | Unreleased| Based on OpenTrace https://github.com/ct-report/OPENTRACE
 **Capgemini** | Unreleased | Based on eRouška CZ https://github.com/ct-report/CZ
 **Deus** | https://github.com/DEUS-BV | Based on DP^3T https://github.com/ct-report/DP-3T
