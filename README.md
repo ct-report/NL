@@ -22,3 +22,12 @@ Proponent | Sources | References
 **Immotef** | https://github.com/covid19-alert/ | https://covid19-alert.eu/
 **Digi.me** | https://github.com/digime (SDK) | http://developers.digi.me/
 **Accenture** | Unreleased | Based on STOPP CORONA AT https://github.com/ct-report/AT
+
+----------------------------------
+
+_**Notice :** Providing only sample + analysis + screenshots of  COVID19-ALERT app, since the other solutions have already been analyzed in the other sections._
+
+COVID19-ALERT | Build 0.20 
+--------------|-----------
+APKLAB Analysis | https://apklab.io/apk.html?hash=88c3204465c06c5991d18d5cd266ac6a1f71d964d02092d13f676ca93c9cd969
+JoeSandbox Report | https://www.joesandbox.com/analysis/225626/0/html
