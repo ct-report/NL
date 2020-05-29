@@ -5,12 +5,14 @@ On April 21 the Dutch Cabinet decided not to designate any of the 7 proposals, w
 
 The Dutch Cabinet is now working on a new solution, that can fulfill all the requirements (EPDB/Privacy & Safety).
 
-**Around May 11-18, the Cabinet will publish interim test-results & announce how such new app will be used to support GGD in tracing and traceability.**
+**First releases of Documentation & Android/iOS sources for demo/test purposes have already been uploaded to Github.**
 
+Sources & Documentation | https://github.com/minvws
+------------------------|--------------------------
 Official NL App Information | https://www.rijksoverheid.nl/onderwerpen/coronavirus-app
--------------------|---------------------------------------------------------
 
-\
+----------------------------------
+
 These were the 7 proposals, that had been selected for the National Appathon.
 
 Proponent | Sources | References
