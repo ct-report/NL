@@ -5,11 +5,25 @@ On April 21 the Dutch Cabinet decided not to designate any of the 7 proposals, w
 
 The Dutch Cabinet is now working on a new solution, that can fulfill all the requirements (EPDB/Privacy & Safety).
 
-**First releases of Documentation & Android/iOS sources for demo/test purposes have already been uploaded to Github.**
+**First releases of Documentation & Android/iOS early-stage sources for test purposes have already been uploaded to Github.**
 
 Sources & Documentation | https://github.com/minvws
 ------------------------|--------------------------
 Official NL App Information | https://www.rijksoverheid.nl/onderwerpen/coronavirus-app
+
+- APKLAB Analysis
+
+Build | Link
+------|-----
+1.0 Release | https://apklab.io/apk.html?hash=9f65f84538405dd828e4fd0d6a791343349abd99944f258651e2ca4a9c60f410
+1.0 Debug | https://apklab.io/apk.html?hash=37f56acd99ec6fc1713fa83fac3559188ee081b2eb027e2b976985495957c6fa
+
+- JoeSandbox Report
+
+Build | Link
+------|-----
+1.0 Release | https://www.joesandbox.com/analysis/235523/0/html
+
 
 ----------------------------------
 
