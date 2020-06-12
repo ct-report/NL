@@ -15,14 +15,15 @@ Official NL App Information | https://www.rijksoverheid.nl/onderwerpen/coronavir
 
 Build | Link
 ------|-----
-1.0 Release | https://apklab.io/apk.html?hash=9f65f84538405dd828e4fd0d6a791343349abd99944f258651e2ca4a9c60f410
+1.0 Release June 12 | https://apklab.io/apk.html?hash=5221c4e39f33fd20b54ca906a5fced2a3ffc61db3c516cff186484235cebd61a
+1.0 Release June 4 | https://apklab.io/apk.html?hash=9f65f84538405dd828e4fd0d6a791343349abd99944f258651e2ca4a9c60f410
 1.0 Debug | https://apklab.io/apk.html?hash=37f56acd99ec6fc1713fa83fac3559188ee081b2eb027e2b976985495957c6fa
 
 - JoeSandbox Report
 
 Build | Link
 ------|-----
-1.0 Release | https://www.joesandbox.com/analysis/235523/0/html
+1.0 Release June 4 | https://www.joesandbox.com/analysis/235523/0/html
 
 
 ----------------------------------
